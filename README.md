@@ -5,6 +5,7 @@ da Universidade Federal de Santa Maria (UFSM), em 2020, para a disciplina de
 Laboratório de Programação I. O objetivo foi criar, em C com
 [Allegro 5](https://liballeg.org/), um jogo inspirado em 2048.
 Foi meu primeiro contato com a linguagem C e com a biblioteca Allegro.
+O trabalho final recebeu nota 10.
 
 Este é um projeto de arquivo: o código e os assets originais foram
 preservados como foram encontrados, inclusive suas datas de modificação.
