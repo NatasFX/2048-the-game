@@ -35,8 +35,10 @@ make
 
 ## Controles
 
-- Use o mouse ou as setas esquerda/direita para escolher a coluna.
-- Use a seta para baixo para acelerar a queda.
+- O jogo pode ser concluído inteiramente com o mouse: escolha a coluna no
+  tabuleiro e use os botões da interface.
+- Como alternativa, as setas esquerda/direita escolhem a coluna e a seta para
+  baixo acelera a queda.
 - Pressione `Esc` para abrir o menu de pausa.
 
 O placar local é criado como `ranking.txt` ao executar o jogo e não é
@@ -44,8 +46,9 @@ versionado.
 
 ## Estrutura
 
-- `allegro.c` — fonte original do jogo.
-- `source/` — fontes, imagens, animações e áudio usados pelo jogo.
+- `allegro.c` — único arquivo-fonte do jogo.
+- `source/` — fontes, imagens, animações e áudio usados pelo jogo; a
+  animação de carregamento está em `source/loading/`.
 - `Makefile` — atalho atual para compilação local, sem alterar a fonte.
 
 ## Nota sobre licenciamento
