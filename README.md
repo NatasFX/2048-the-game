@@ -4,6 +4,10 @@ Um jogo de 2048 feito em C com [Allegro 5](https://liballeg.org/). Este é um
 projeto de arquivo: o código e os assets originais foram preservados como
 foram encontrados, inclusive suas datas de modificação.
 
+## Gameplay
+
+![Colagem de momentos do gameplay de 2048 The Game](assets/gameplay-montage.jpg)
+
 ## Executar
 
 No Ubuntu/Debian, instale as dependências de compilação:
