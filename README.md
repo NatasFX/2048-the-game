@@ -13,9 +13,6 @@ preservados como foram encontrados, inclusive suas datas de modificação.
 
 ![Colagem de momentos do gameplay de 2048 The Game](assets/gameplay-montage.jpg)
 
-Da esquerda para a direita: carregamento (`0:00`), menu (`0:14`) e uma
-partida em andamento (`1:13`).
-
 ## Executar
 
 No Ubuntu/Debian, instale as dependências de compilação:
@@ -35,7 +32,7 @@ make
 
 ## Controles
 
-- O jogo pode ser concluído inteiramente com o mouse: escolha a coluna no
+- O jogo pode ser jogado inteiramente com o mouse: escolha a coluna no
   tabuleiro e use os botões da interface.
 - Como alternativa, as setas esquerda/direita escolhem a coluna e a seta para
   baixo acelera a queda.
@@ -50,10 +47,3 @@ versionado.
 - `source/` — fontes, imagens, animações e áudio usados pelo jogo; a
   animação de carregamento está em `source/loading/`.
 - `Makefile` — atalho atual para compilação local, sem alterar a fonte.
-
-## Nota sobre licenciamento
-
-Não há uma licença explícita nos arquivos originais. Portanto, este
-repositório não concede permissão adicional para reutilização do código ou
-dos assets. As faixas musicais presentes em `source/mus/` permanecem sujeitas
-aos direitos de seus respectivos titulares.
