@@ -13,6 +13,8 @@ preservados como foram encontrados, inclusive suas datas de modificação.
 
 ![Colagem de momentos do gameplay de 2048 The Game](assets/gameplay-montage.jpg)
 
+![Mais momentos do gameplay de 2048 The Game](assets/gameplay-late.jpg)
+
 ## Executar
 
 No Ubuntu/Debian, instale as dependências de compilação:
